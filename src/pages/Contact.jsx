@@ -1,7 +1,7 @@
 import Footer from "../GlobalComponents/Footer";
 import Navbar from "../GlobalComponents/Navbar";
 import Sidebar from "../GlobalComponents/Sidebar";
-import Main from "../contactPage/main";
+import Main from "../contactPage/Main";
 
 function Contact() {
   return (
