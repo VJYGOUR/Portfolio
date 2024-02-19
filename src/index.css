@@ -1,0 +1,17 @@
+@tailwind base;
+@layer base {
+  h1 {
+    @apply text-[3rem] leading-[3.2rem] font-ibarra text-grayishDarkBlue;
+  }
+  h2 {
+    @apply text-[2.5rem] leading-[2.7rem] font-ibarra text-grayishDarkBlue;
+  }
+  h3 {
+    @apply text-[2rem] leading-[2.2rem] font-ibarra text-grayishDarkBlue;
+  }
+  p {
+    @apply leading-[1.9rem] text-darkBlue;
+  }
+}
+@tailwind components;
+@tailwind utilities;
