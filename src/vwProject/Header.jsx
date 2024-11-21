@@ -65,7 +65,7 @@ const arr = [
     desk3: desktopimgBookmark3,
     prev: "Audiophile",
     next: "Clipboard",
-    link: "https://vjy-sunnyside.netlify.app/",
+    link: "https://fast-react-pizza-steel.vercel.app/",
   },
   {
     heading: "Clipboard",
