@@ -20,15 +20,17 @@ function Main({ down }) {
       <img src={x} alt="tab" className="hidden xl:w-[50%] xl:block" />
       <div className="border-t-[1px] border-b-[1px] pt-8 pb-12 border-solid border-textcolor my-4">
         <h1>About me</h1>
-        <p className="my-8">
-          I’m a front-end developer looking for a new role in an exciting
-          company. I focus on writing accessible HTML, using modern CSS
-          practices and writing clean JavaScript. When writing JavaScript code,
-          I mostly use React, but I can adapt to whatever tools are required.
-          I’m based in Gurugram, Haryana, India, but I’m happy working remotely
-          and have experience in remote teams. When I’m not coding, you’ll find
-          me outdoors. I love being out in nature whether that’s going for a
-          walk, run or cycling. I’d love you to check out my work.
+        <p className="my-8 ">
+          I’m a Next.js developer on the lookout for new opportunities with an
+          innovative company. I specialize in building fast, scalable web
+          applications using the latest web technologies, focusing on
+          performance, accessibility, and user-friendly design. With experience
+          in React and server-side rendering, I thrive on creating seamless and
+          efficient web solutions. Based in Gurugram, Haryana, India, I’m open
+          to remote work and have successfully collaborated with remote teams.
+          Outside of coding, you’ll often find me outdoors, whether I’m hiking,
+          running, or cycling. Take a look at my work—I’d love to collaborate
+          with you!
         </p>
         <Link to="/portfolio">
           <Button content="go to portfolio" />

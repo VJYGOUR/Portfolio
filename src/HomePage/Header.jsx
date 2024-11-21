@@ -4,7 +4,7 @@ function Header({ scrol, down }) {
       <div className="bg-[url('./images/homepage/mobile/image-homepage-hero@2x.jpg')] bg-center bg-cover bg-no-repeat h-[40%] sm:bg-[url('./images/homepage/tablet/image-homepage-hero@2x.jpg')] sm:h-full  xl:bg-[url('./images/homepage/desktop/image-homepage-hero@2x.jpg')] xl:h-full"></div>
       <div className="sm:absolute sm:bottom-0 sm:bg-veryLightGrey sm:w-[56ch] ">
         <h1 className="my-[2.6rem] sm:w-[80%]">
-          Hey, I’m Vijay Kumar and I love building beautiful websites and Apps
+          Hey, I’m Vijay Kumar and I love building beautiful websites
         </h1>
         <button
           onClick={() => scrol(down)}
